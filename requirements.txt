@@ -1,0 +1,19 @@
+langchain_openai
+langchain_core
+python-dotenv
+streamlit
+langchain_community
+langserve
+fastapi
+uvicorn
+sse_starlette
+bs4
+pypdf
+chromadb==0.3.26
+# pip install chromadb --no-deps
+faiss-cpu
+arxiv
+wikipedia
+langchainhub
+langchain_groq
+sentence-transformers
